@@ -77,7 +77,8 @@ It is the look-back resistance across the load terminals when all the sources ar
 
 **MARK SPLIT UP:**
 
-<img width="1253" height="969" alt="image" src="https://github.com/user-attachments/assets/d89fedf2-be93-48aa-bf9f-365c324658d6" />
+![image msu4](<img width="500" height="500" alt="qr_download (7)" src="https://github.com/user-attachments/assets/9d018101-b359-4f41-b4db-a446aaa2e2ff" />)
+
 
 
 
