@@ -68,9 +68,7 @@ It is the look-back resistance across the load terminals when all the sources ar
 
 **TABULATION AND CALCULATION:**
 
-<img width="720" height="1280" alt="image" src="https://github.com/user-attachments/assets/eb83e708-7fed-4055-8702-502769fb5e51" />
-<img width="720" height="1280" alt="image" src="https://github.com/user-attachments/assets/d0f7ab37-d672-4327-8501-5d4d8c2692ba" />
-<img width="1149" height="709" alt="image" src="https://github.com/user-attachments/assets/b7a88a46-fac6-4913-9b4e-423d9f1437cb" />
+![image calci4](https://github.com/dhanushd30032008-wq/4.VERIFICATION-OF-THEVENIN-S-THEOREM/blob/3c614d2fe0c6b111aaa26b11e80cf832f6fa832c/ex_4.calci%5B1%5D.pdf)
 
 
 **MARK SPLIT UP:**
