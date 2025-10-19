@@ -77,7 +77,7 @@ It is the look-back resistance across the load terminals when all the sources ar
 
 **MARK SPLIT UP:**
 
-![image msu4](<img width="500" height="500" alt="qr_download (7)" src="https://github.com/user-attachments/assets/9d018101-b359-4f41-b4db-a446aaa2e2ff" />)
+![image msu4](https://github.com/dhanushd30032008-wq/4.VERIFICATION-OF-THEVENIN-S-THEOREM/blob/b1e8171ce45e85b225ef92d49e83285c1d8c5f9d/ex_6.msu%5B2%5D.pdf)
 
 
 
