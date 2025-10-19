@@ -34,7 +34,7 @@ It is the look-back resistance across the load terminals when all the sources ar
  
 **CIRCUIT DIAGRAM: VERIFICATION OF THEVENIN’S THEOREM:**
 
-<img width="799" height="1280" alt="image" src="https://github.com/user-attachments/assets/4d50016e-70af-456b-baf9-0fe87b42f97f" />
+![image cd4](https://github.com/dhanushd30032008-wq/4.VERIFICATION-OF-THEVENIN-S-THEOREM/blob/4f331222668491cb91161b465cb22f55f426eb6a/ex_4.cd_(1)%5B1%5D.pdf)
 
 
 
