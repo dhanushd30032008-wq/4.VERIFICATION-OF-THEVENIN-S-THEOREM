@@ -66,9 +66,13 @@ It is the look-back resistance across the load terminals when all the sources ar
 
 13.	Theoretically verify the Norton’s theorem.
 
-**TABULATION AND CALCULATION:**
+**CALCULATION:**
 
 ![image calci4](https://github.com/dhanushd30032008-wq/4.VERIFICATION-OF-THEVENIN-S-THEOREM/blob/3c614d2fe0c6b111aaa26b11e80cf832f6fa832c/ex_4.calci%5B1%5D.pdf)
+
+**TABULATION:**
+
+![image tb4](https://github.com/dhanushd30032008-wq/4.VERIFICATION-OF-THEVENIN-S-THEOREM/blob/b23ef4673eb79eb8f441a17d08d77eb472072e73/ex_4.tb%5B1%5D.pdf)
 
 
 **MARK SPLIT UP:**
